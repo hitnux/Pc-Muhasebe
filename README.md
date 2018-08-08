@@ -1,2 +1,3 @@
 # PyMuhasebe
-Python ile Tedarikçi Destekli Basit Muhasebe Programı
+Database: Oracle
+Python Version: 2.7 
